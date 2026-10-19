@@ -16,8 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/red-cup-engineering/computer-code-engineering-services-section.git",
-    "directory": "services/javascript-engineering-services-section/services/javascript-node-services-section/services/jsnode-packaging-services-section/services/npm-services-section/services/npm-package-services-section/services/npm-scoped-package-name-formation-service"
+    "url": "git+https://github.com/red-cup-engineering/npm-scoped-package-name-formation-service.git"
   },
   "dependencies": {
     "@red-cup-engineering/npm-owner-admission-service": "0.2.0",
