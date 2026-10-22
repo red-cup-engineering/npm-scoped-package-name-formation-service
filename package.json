@@ -21,5 +21,10 @@
   "dependencies": {
     "@red-cup-engineering/npm-owner-admission-service": "0.2.0",
     "@red-cup-engineering/npm-package-name-leaf-admission-service": "0.3.0"
+  },
+  "license": "MIT",
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/561-group/.github/blob/main/TIPS.md"
   }
 }
